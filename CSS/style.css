@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    padding: 100px;
+}
+
+.attribution {
+     font-size: 11px;
+    text-align: center; 
+     color: hsl(228, 45%, 44%); }
+
+.image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.paragraph-one {
+    margin: 25px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+}
+.paragraph-two {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    
+}
+.first {
+    
+    background-color: aliceblue;
+    width: 350px;
+    padding: 20px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px 2px;
+}
